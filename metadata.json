@@ -1,0 +1,6 @@
+{
+  "name": "DIY 家居維修大師 (DIY Home Repair Master)",
+  "description": "參考常用家居維修手動工具介紹打造的沉浸式動手維修遊戲。掌握螺絲批、活動扳手、羊角錘、橡皮鎚、水平尺、拉尺、止洩帶等工具，親手修復家具、水電與家居故障！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
